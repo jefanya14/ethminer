@@ -5,7 +5,7 @@
 #################################
 
 POOL=beam.sunpool.top:3334
-WALLET=32f2e8765c2e8f5ea41becc5f397024c94d80cc5fc50ee917af23b260ecb3a5f.testRun
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 #################################
 ##  End of user-editable part  ##

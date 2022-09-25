@@ -5,7 +5,7 @@
 #################################
 
 POOL=de.ergo.herominers.com:1180
-WALLET=9i9m9AxmqgBUBD6GfYJQHZiHQ5d6AP7Ak3QVFfKiNtopQnMZkmG.lolMinerWorker
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7.lolMinerWorker
 
 #################################
 ##  End of user-editable part  ##

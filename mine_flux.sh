@@ -5,7 +5,7 @@
 #################################
 
 POOL=eu-flux.fluxpools.net:7001
-WALLET=t1cLkQpx3kEJw2TjPnTmCpe4KqLvER8NknA.testWorker	
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7.testWorker	
 
 #################################
 ##  End of user-editable part  ##

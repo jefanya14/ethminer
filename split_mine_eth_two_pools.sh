@@ -5,11 +5,11 @@
 #################################
 
 POOL=eth.2miners.com:2020
-WALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 WORKER=WORKER1
 
 DUALPOOL=eu1.ethermine.org:4444
-DUALWALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f
+DUALWALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 DUALWORKER=WORKER2
 
 #################################

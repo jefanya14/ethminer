@@ -5,14 +5,14 @@
 #################################
 
 ETHPOOL=tls://eu1.ethermine.org:5555
-ETHWALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f
+ETHWALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 ETHWORKER=lolMinerETH
 
 KASWORKER=lolMinerKaspa
 KASPOOL1=ca.acc-pool.pw:16064
-KASWALLET1=kaspa:qzhfnqfz5xtx2sgdf52aahaw6nkmda8p84rknut25lt82pnd9y82ke0em7s5j
+KASWALLET1=kaspa:3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 KASPOOL2=ru.acc-pool.pw:16064
-KASWALLET2=kaspa:qzhfnqfz5xtx2sgdf52aahaw6nkmda8p84rknut25lt82pnd9y82ke0em7s5j
+KASWALLET2=kaspa:3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 #################################
 ##  End of user-editable part  ##

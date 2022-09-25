@@ -5,10 +5,10 @@
 #################################
 
 ETHPOOL=eu1.ethermine.org:4444
-ETHWALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f.lolMinerWorker
+ETHWALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7.lolMinerWorker
 
 ETCPOOL=etc.2miners.com:1010
-ETCWALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f.lolMinerWorker
+ETCWALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7.lolMinerWorker
 
 #################################
 ##  End of user-editable part  ##

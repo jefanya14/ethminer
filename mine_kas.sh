@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POOL=pool.woolypooly.com:3113
-WALLET=kaspa:qqgsckw6auwxpne56c9jr7w645ef6tgkvaydadhlegwnaz7uv8haje9vdkzvq
+WALLET=kaspa:3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 ./lolMiner --algo KASPA --pool $POOL --user $WALLET $@
 

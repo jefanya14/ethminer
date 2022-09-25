@@ -5,7 +5,7 @@
 #################################
 
 POOL=ctxc.2miners.com:2222
-WALLET=0x10487aaa46daf9a19deccfccaa2c5dc80af4692c.WorkerName
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 #################################
 ##  End of user-editable part  ##

@@ -5,7 +5,7 @@
 #################################
 
 POOL=mining.bittube.app:3400
-WALLET=Tubed6kEh3gfJbdLRXMt7jDjJmqhKYpyPE2prL1JcbXhMm4xR7t2oo6ibYKAbJRgGoQvG6TMWG52deFxhwASoS3dd2jrVgwPWbU
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 WORKER=testWorker
 
 #################################

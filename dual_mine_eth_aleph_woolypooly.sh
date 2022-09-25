@@ -5,10 +5,10 @@
 #################################
 
 ETHPOOL=eu1.ethermine.org:4444
-ETHWALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f
+ETHWALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 ALEPHPOOL=pool.woolypooly.com:3106
-ALEPHWALLET=1mmHfNEEWgDLbEUqqxkSjzgJjDt7AqgkutD64AnBUeXz
+ALEPHWALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 #################################
 ##  End of user-editable part  ##

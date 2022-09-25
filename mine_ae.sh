@@ -5,7 +5,7 @@
 #################################
 
 POOL=ae.2miners.com:4040
-WALLET=ak_aQtZcwia4WuD2J8aQFFB44eNto7QoBERFKBinzZcqxoojRBNo.WorkerName
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 
 #################################
 ##  End of user-editable part  ##

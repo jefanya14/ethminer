@@ -5,7 +5,7 @@
 #################################
 
 POOL=stratum.pool-node.com:8020
-WALLET=0x6808A37357936BF72C10962F148C7B5d5427c1b0.lolMinerWorker
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7.lolMinerWorker
 
 #################################
 ##  End of user-editable part  ##

@@ -5,7 +5,7 @@
 #################################
 
 POOL=asia-grin.2miners.com:3030
-WALLET=grin13s68p9tfzn2yugjw0hzh33x694k6f88ksl6py4nuefuwwc9gzfdsn9gj7v.WorkerName
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7.WorkerName
 PASS=x
 
 #################################

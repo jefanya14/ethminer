@@ -5,7 +5,7 @@
 #################################
 
 POOL=btg.2miners.com:4040
-WALLET=GcK4pcrrkm8dWHynmycC7bJJVrWzf7mk8T.workerName
+WALLET=3GNvCSTXoKoVqWMX2QzMiQnfRPzNQzzXh7
 ALGO=EQUI144_5
 PERSONALIZATION=BgoldPoW
 
